@@ -1,4 +1,4 @@
-# migrete_from_winbind_to_sssd
+# migrate_from_winbind_to_sssd
 
 #!/bin/bash
 #set -x
