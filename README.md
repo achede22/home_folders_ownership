@@ -1,5 +1,7 @@
 # migrate_from_winbind_to_sssd
 
+HD 2018
+
 #!/bin/bash
 #set -x
 #trap read debug
